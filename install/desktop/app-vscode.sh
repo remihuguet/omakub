@@ -12,4 +12,4 @@ mkdir -p ~/.config/Code/User
 cp ~/.local/share/omakub/configs/vscode.json ~/.config/Code/User/settings.json
 
 # Install default supported themes
-code --install-extension enkia.tokyo-night
+code --install-extension whizkydee.material-palenight-theme
